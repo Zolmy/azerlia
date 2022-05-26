@@ -6,7 +6,7 @@
 #### Weapon (Polearm), Artifact (requires attunement by Freki Ulfheonar)
 
 <!-- <div class="imgoverflow"> -->
-<span class="leftimg smallimg"><img src="/assets/wyndar.png"/></span>
+<span class="leftimg smallimg"><img src="../assets/wyndar.png"/></span>
 Forged by the legendary changeling blacksmith Wyndar, his name sake weapon is imbued with some of his very life essence, allowing it to change and adapt to the situation at hand. Only one deemed worthy of Wyndar can reach its true potential.
 <!-- </div> -->
 
