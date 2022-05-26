@@ -72,7 +72,7 @@ While wearing this armor, you can use your action to cast fireball (save DC 15),
 **Wondrous item, common**
 
 <div class="imgoverflow">
-<img class="leftimg smallimg" src="../../../assets/stem.png"/>
+<img class="leftimg smallimg" src="../../assets/stem.png"/>
 
 It's a magical stem. Wat du hek?
 </div>
