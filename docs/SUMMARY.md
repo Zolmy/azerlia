@@ -1,3 +1,5 @@
 - [Azerlia](index.md)
 - [Magic Items](magic-items.md)
+- [Homebrew](homebrew/)
 - [Sessions](sessions/)
+- *.md
