@@ -37,4 +37,5 @@ plugins:
       nav_file: SUMMARY.md
 
 extra_css:
+  - stylesheets/extra.css
   - stylesheets/images.css

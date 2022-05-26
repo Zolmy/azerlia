@@ -1,5 +1,12 @@
 - [Azerlia](index.md)
-- [Magic Items](magic-items.md)
-- [Homebrew](homebrew/)
+- Magic Items
+    - Relics
+        - magic_items/relics/*.md
+    - magic_items/*.md
 - [Sessions](sessions/)
+- Homebrew
+    - [General](homebrew/general.md)
+    - homebrew/*.md
+- [Characters](characters/index.md)
+    - characters/*.md
 - *.md
