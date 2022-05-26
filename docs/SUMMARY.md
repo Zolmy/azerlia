@@ -1,0 +1,3 @@
+- [Azerlia](index.md)
+- [Magic Items](magic-items.md)
+- [Sessions](sessions/)
