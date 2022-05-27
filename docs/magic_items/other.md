@@ -25,7 +25,7 @@ Usually found in a small leather sack, this powder resembles fine, white sand. T
 **Wondrous Item, uncommon**
 
 <div class="imgoverflow">
-<img class="leftimg smallimg" src="../../assets/trailboots.jpg"/>
+<img class="leftimg smallimg" src="../../assets/trailboots.png"/>
 
 Until they are worn, the boots of the trail appear to be in grave disrepair. When you lace them up, the illusion fades: they are immaculate hiking boots with gold clasps and silk laces. While wearing these boots, you leave behind no tracks or other traces of your passage, and can’t be tracked except by magical means. You can march for twice as long before suffering levels of exhaustion.
 Additionally, you can remove the boots and speak a command word (Vroom vroom) as an action to cause the boots to walk alone, leaving a false trail in any direction for up to one mile. The boots then teleport back to your feet.
@@ -44,7 +44,7 @@ While attuned to this cane, you suffer none of the frailty of old age and can’
 **Wondrous Item, rare (requires attunement)**
 
 <div class="imgoverflow">
-<img class="leftimg smallimg" src="../../assets/animalbracelet.jpg"/>
+<img class="leftimg smallimg" src="../../assets/animalbracelet.png"/>
 
 When you place this item on your wrist, you gain the ability to comprehend and verbally communicate with one beast of your choice. A side effect is that you can no longer speak any other language, but can only make the noise, such as a bark or meow, of the last beast you spoke to.This effect lasts while you have the bracelet on your wrist.
 The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM’s discretion.
