@@ -7,6 +7,8 @@
 - Homebrew
     - [General](homebrew/general.md)
     - homebrew/*.md
+- Special
+    - special/*.md
 - [Characters](characters/index.md)
     - characters/*.md
 - *.md
