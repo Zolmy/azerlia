@@ -10,4 +10,4 @@ While within 100 feet of another party member, you may extract items from their 
 One Holoband has a secondary storage module that can store and preserve a singular large or smaller corpse for an indefinite amount of time.
 
 ## Holoband Upgrade: Louisoix Pasteuriti (Unique)
-See Chest of Preserving
+See [Chest of Preserving](https://www.dndbeyond.com/magic-items/372030-chest-of-preserving)

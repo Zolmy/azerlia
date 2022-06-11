@@ -22,9 +22,9 @@
   * You will also get an amount of gold to buy non magic items during character creation only
 
 * Your character can also pick from ONE of the following options (use DndBeyond for these):
-  * 2 Common magic items (only 1 can require attunement)
-  * 1 Uncommon magic item
-  * 1 Rare magic item
+    * 2 Common magic items (only 1 can require attunement)
+    * 1 Uncommon magic item
+    * 1 Rare magic item
 
 ## Backstory
 
