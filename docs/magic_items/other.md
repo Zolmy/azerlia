@@ -68,11 +68,34 @@ This bronze key has a head shaped like a crown. When inserted into a non magical
 While wearing this armor, you can use your action to cast fireball (save DC 15), centered on yourself. You take no damage from this spell. The armor cant be used this way again until the next dawn.
 </div>
 
-## Magical Leaf Stem
+## Magical One Leaf Clover
+**Wondrous item, common (requires attunement)**
+
+<div class="imgoverflow">
+<img class="leftimg smallimg" src="../../assets/oneleaf.png"/>
+
+While attuned to this item you gain the following benefits:
+<ul>
+<li>
+You have advantage against being charmed or frightened
+</li>
+</ul>
+</div>
+
+## Lord's Clothes
 **Wondrous item, common**
 
 <div class="imgoverflow">
-<img class="leftimg smallimg" src="../../assets/stem.png"/>
+<img class="leftimg smallimg" src="../../assets/lordclothes.png"/>
 
-It's a magical stem. Wat du hek?
+While wearing these lavish clothes, you have advantage on all Charisma (Deception) checks made to impersonate a noble.
+</div>
+
+## Philosopher’s Crown
+**Wondrous item, uncommon (requires attunement)**
+
+<div class="imgoverflow">
+<img class="leftimg smallimg" src="../../assets/philocrown.png"/>
+
+While wearing the crown, you have advantage on Arcana, History, Nature, and Religion checks. In addition, if you make one of the above skill checks and dislike the result, you can reroll the die. You must use the second result. Once you use this power, you can’t use it again until you finish a long rest.
 </div>
