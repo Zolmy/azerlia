@@ -12,7 +12,9 @@ You may use Kaban as Alchemist’s supplies, Brewer’s supplies, Cook’s utens
 If you don’t wish to extract a brew, Kaban is capable of preserving, remembering, and recalling any brew currently inside it in its own vial dimension. As a bonus action, you may have Kaban drain whatever it currently has inside into its vial dimension and recall something back or simply start a new brew. Kaban can store a number of brews this way equal to your proficiency bonus. Each of Kaban's brews, unless otherwise stated, have a volume equal to your proficiency bonus number of vials.
 
 ## Magical Concoction (Level 1)
-You may cast a spell into Kaban to create a magical brew. You may stir this brew for 10 minutes to imbue a special effect into it from the following options:
+You may cast a spell into Kaban to create a magical brew. You may stir this brew for 10 minutes to imbue it with some witchery.
+
+You may cast this spell from Kaban as you would normally cast a spell. When you do, the spell is cast as if it were one level higher and has one of the following effects added to it.
 
 * Replace the spell with any spell from the Druid spell list of an equal or lower level
 * Double the duration of the spell
@@ -21,9 +23,7 @@ You may cast a spell into Kaban to create a magical brew. You may stir this brew
 * Change the area of the spell
 * Change the saving throw of the spell
 
-You may cast this spell from Kaban as you would normally cast a spell. When you do, the spell is cast as if it were one level higher and has the chosen effect. The brew need not be the active brew in order to cast it.
-
-You may only add one effect to the brew and Kaban may only have one magical brew at any given time and one vial's worth.
+The brew need not be the active brew in order to cast it. You may only add one effect to the brew and Kaban may only have one magical brew at any given time and one vial's worth.
 
 You can only use this feature of Kaban once per long rest.
 
