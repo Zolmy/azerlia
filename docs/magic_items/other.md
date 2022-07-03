@@ -138,16 +138,16 @@ These fluffy slippers are made from the pelts of rare, magical felines. While we
 
 </div> -->
 
-<!-- ## Mirror Shield
+## Mirror Shield
 **Armor (shield), uncommon (requires attunement)**
 
 <div class="imgoverflow">
 <img class="leftimg smallimg" src="../../assets/mirrorshield.png"/>
 
 While holding this shield, ranged spell attacks have disadvantage against you. On a roll of 1, this shield reflects the spell back at the caster.
-</div> -->
+</div>
 
-<!-- ## Glasses of Ignorance
+## Glasses of Ignorance
 **Wondrous item, common (requires attunement)**
 
 <div class="imgoverflow">
@@ -168,7 +168,7 @@ The glasses will not grant sight into areas that normally could not be seen such
 <p>
 Should these glasses get misplaced, the attuned character may speak the command work and after one minute the glasses will return to the baby seal leather case they came with.
 </p>
-</div> -->
+</div>
 
 <!-- ## Puzzle Box
 **Wondrous item, rare**
