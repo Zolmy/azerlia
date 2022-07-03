@@ -25,6 +25,8 @@ You may cast this spell from Kaban as you would normally cast a spell. When you 
 
 You may only add one effect to the brew and Kaban may only have one magical brew at any given time and one vial's worth.
 
+You can only use this feature of Kaban once per long rest.
+
 ## Mirror, Mirror (Level 1)
 By supplying some part of a living creature or an item from a specific location and stirring Kaban for 10 minutes, Kaban’s water becomes a viewport of the creature or location as though you cast the Scrying spell. Unlike the scrying spell, you cannot hear the creature or location. The part used when stirring affects the DC of the Wisdom save made as part of the Scrying spell according to the “Connection” table. You do not need to maintain concentration for the effect.
 
