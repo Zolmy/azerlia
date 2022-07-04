@@ -81,14 +81,14 @@ You have advantage against being charmed or frightened
 </li>
 <!-- <li>
 You have resistance to non magical bludgeoning, piercing, and slashing damage
-</li>
-<li>
+</li> -->
+<!-- <li>
 You have advantage on stealth and sleight of hand rolls
-</li>
-<li>
+</li> -->
+<!-- <li>
 You land critical hits on a 7 in addition to your normal critical hit range
-</li>
-<li>
+</li> -->
+<!-- <li>
 While your effective HP (normal + temp) is under 20% of your maximum HP you gain the following benefits:
 <ul>
 <li>You have advantage on attack rolls and saving throws</li>

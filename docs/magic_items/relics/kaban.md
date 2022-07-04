@@ -16,7 +16,7 @@ Once per long rest, you may cast a spell into Kaban to create a magical brew. Yo
 
 You may cast this spell from Kaban as you would normally cast a spell. When you do, the spell is cast as if it were one level higher and has one of the following effects added to it (your choice).
 
-* Replace the spell with any spell from the Druid spell list of an equal or lower level
+* Replace the spell with any spell from the Druid spell list of an equal or lower level to the original slot used
 * Double the duration of the spell
 * Double the area of the spell
 * Double the range of the spell
