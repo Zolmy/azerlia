@@ -26,7 +26,13 @@ You may cast this spell from Kaban as you would normally cast a spell. When you 
 The brew need not be the active brew in order to cast it. You may only add one effect to the brew and Kaban may only have one magical brew at any given time and one vial's worth.
 
 ## Mirror, Mirror (Level 1)
-By supplying some part of a living creature or an item from a specific location and stirring Kaban for 10 minutes, Kaban’s water becomes a viewport of the creature or location as though you cast the Scrying spell. Unlike the scrying spell, you cannot hear the creature or location. The part used when stirring affects the DC of the Wisdom save made as part of the Scrying spell according to the “Connection” table. You do not need to maintain concentration for the effect.
+As an action, you can make Kaban produce a special reflective paste. You can slather this paste on any continuous vertical surface. You must slather it in a rectangular shape that is at least 4 by 8 feet and at most 6 by 10 feet. The slathered area looks normal to creatures other than you. The waters inside of Kaban then become a viewport to the slathered area, as if the area is a mirror. You can also hear sounds if their source is close enough.
 
-You can use this feature of Kaban once per long rest.
+Additionally, by stirring the viewport for 30 seconds you can do one of the following:
 
+* Send a willing creature or object within 5 feet of you to the other side
+* Pull a willing creature or object within 5 feet of the mirror to Kaban
+
+For this to work, Kaban and the mirror must be on the same plane of existence and within 1 mile of each other. If you go through Kaban, you can choose to bring Kaban with you, or leave it behind. You are able to walk through the mirror without needing to stir Kaban, at which point you reappear wherever you left it after a 30 second delay.
+
+You can do this once per long rest, and the mirror lasts for 3 hours.
