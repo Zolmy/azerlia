@@ -25,14 +25,14 @@ You may cast this spell from Kaban as you would normally cast a spell. When you 
 
 The brew need not be the active brew in order to cast it. You may only add one effect to the brew and Kaban may only have one magical brew at any given time and one vial's worth.
 
-## Mirror, Mirror (Level 1)
-As an action, you can make Kaban produce a special reflective paste. You can slather this paste on any continuous vertical surface. You must slather it in a rectangular shape that is at least 4 by 8 feet and at most 6 by 10 feet. The slathered area looks normal to creatures other than you. The waters inside of Kaban then become a viewport to the slathered area, as if the area is a mirror. You can also hear sounds if their source is close enough.
+## Mirror, Mirror (Level 1?)
+As an action, you can make Kaban produce a special reflective paste. You can slather this paste on any continuous vertical surface. You must slather it in a rectangular shape that is at least 4 by 8 feet and at most 6 by 10 feet. The slathered area magically turns into a mirror that only you and your allies can see. The waters inside of Kaban then become a viewport to the mirror allowing you to see the area. You can also hear sounds if their source is close enough.
 
 Additionally, by stirring the viewport for 30 seconds you can do one of the following:
 
 * Send a willing creature or object within 5 feet of you through Kaban to the other side
 * Pull a willing creature or object within 5 feet of the mirror to Kaban
 
-For this to work, Kaban and the mirror must be on the same plane of existence, be within 1 mile of each other, and the creature or object must be able to fit through the mirror. If you go through Kaban, you can choose to bring Kaban with you, or leave it behind. You are able to walk through the mirror without needing to stir Kaban, at which point you reappear wherever you left it after a 30 second delay.
+For this to work, Kaban and the mirror must be on the same plane of existence, be within 5 miles of each other, and the creature or object must be able to fit through the mirror. If you go through Kaban, you can choose to bring Kaban with you, or leave it behind. You are able to walk through the mirror without needing to stir Kaban, at which point you reappear wherever you left it after a 30 second delay.
 
-You can do this once per long rest, and the mirror lasts for 3 hours.
+The mirror lasts for a number of hours equal to your proficiency bonus. You can create a mirror this way once per long rest, and its teleportation property can be done 20 times, at which points its only usable as the viewport for its remaining duration.
