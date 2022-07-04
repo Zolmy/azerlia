@@ -30,7 +30,7 @@ As an action, you can make Kaban produce a special reflective paste. You can sla
 
 Additionally, by stirring the viewport for 30 seconds you can do one of the following:
 
-* Send a willing creature or object within 5 feet of you to the other side
+* Send a willing creature or object within 5 feet of you through Kaban to the other side
 * Pull a willing creature or object within 5 feet of the mirror to Kaban
 
 For this to work, Kaban and the mirror must be on the same plane of existence, be within 1 mile of each other, and the creature or object must be able to fit through the mirror. If you go through Kaban, you can choose to bring Kaban with you, or leave it behind. You are able to walk through the mirror without needing to stir Kaban, at which point you reappear wherever you left it after a 30 second delay.
