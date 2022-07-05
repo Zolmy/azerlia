@@ -35,4 +35,4 @@ Additionally, by stirring the viewport for 30 seconds you can do one of the foll
 
 For this to work, Kaban and the mirror must be on the same plane of existence, be within 5 miles of each other, and the creature or object must be able to fit through the mirror. If you go through Kaban, you can choose to bring Kaban with you, or leave it behind. You are able to walk through the mirror without needing to stir Kaban, at which point you reappear wherever you left it after a 30 second delay.
 
-The mirror lasts for a number of hours equal to your proficiency bonus. You can create a mirror this way once per long rest, and its teleportation property can be done 20 times, at which points its only usable as the viewport for its remaining duration.
+The mirror lasts for a number of hours equal to your proficiency bonus. You can create a mirror this way once per long rest, and its teleportation property can be used 20 times, at which point it's only usable as the viewport for the remaining duration.
