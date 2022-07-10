@@ -68,11 +68,11 @@ This bronze key has a head shaped like a crown. When inserted into a non magical
 While wearing this armor, you can use your action to cast fireball (save DC 15), centered on yourself. You take no damage from this spell. The armor cant be used this way again until the next dawn.
 </div>
 
-## Magical Two Leaf Clover
+## Magical Three Leaf Clover
 **Wondrous item, common (requires attunement)**
 
 <div class="imgoverflow">
-<img class="leftimg smallimg" src="../../assets/twoleaf.png"/>
+<img class="leftimg smallimg" src="../../assets/threeleaf.png"/>
 
 While attuned to this item you gain the following benefits:
 <ul>
@@ -82,9 +82,9 @@ You have advantage against being charmed or frightened
 <li>
 You have resistance to non magical bludgeoning, piercing, and slashing damage
 </li>
-<!-- <li>
+<li>
 You have advantage on stealth and sleight of hand rolls
-</li> -->
+</li>
 <!-- <li>
 You land critical hits on a 7 in addition to your normal critical hit range
 </li> -->
@@ -118,7 +118,7 @@ While wearing these lavish clothes, you have advantage on all Charisma (Deceptio
 While wearing the crown, you have advantage on Arcana, History, Nature, and Religion checks. In addition, if you make one of the above skill checks and dislike the result, you can reroll the die. You must use the second result. Once you use this power, you can’t use it again until you finish a long rest.
 </div>
 
-<!-- ## Ear Cuff of the Vampire Bat
+## Ear Cuff of the Vampire Bat
 **Wondrous item, uncommon (requires attunement)**
 
 <div class="imgoverflow">
@@ -126,7 +126,7 @@ While wearing the crown, you have advantage on Arcana, History, Nature, and Reli
 
 While wearing this dark ceramic ear cuff, your Wisdom (Perception) checks that rely on hearing are made with advantage. In addition, whenever you make a Wisdom (Perception) check that involves hearing, you can choose to command the ear cuff to momentarily enhance your senses. When you do, its eyes flash with a piercing red glow as the bat’s ceramic fangs bite down on your ear. You take 1d4+1 necrotic damage from its bite, and immediately gain a bonus to your Wisdom (Perception) check equal to the amount of necrotic damage taken in this way. This damage ignores any resistance or immunity to necrotic damage. You can decide to use this ability after you roll the d20, but before the GM determines the outcome.
 
-</div> -->
+</div>
 
 ## Clawed Slippers
 **Wondrous item, uncommon**
