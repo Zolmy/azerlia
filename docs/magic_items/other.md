@@ -79,9 +79,9 @@ While attuned to this item you gain the following benefits:
 <li>
 You have advantage against being charmed or frightened
 </li>
-<!-- <li>
+<li>
 You have resistance to non magical bludgeoning, piercing, and slashing damage
-</li> -->
+</li>
 <!-- <li>
 You have advantage on stealth and sleight of hand rolls
 </li> -->
@@ -128,7 +128,7 @@ While wearing this dark ceramic ear cuff, your Wisdom (Perception) checks that r
 
 </div> -->
 
-<!-- ## Clawed Slippers
+## Clawed Slippers
 **Wondrous item, uncommon**
 
 <div class="imgoverflow">
@@ -136,7 +136,7 @@ While wearing this dark ceramic ear cuff, your Wisdom (Perception) checks that r
 
 These fluffy slippers are made from the pelts of rare, magical felines. While wearing these slippers, you gain a climbing speed equal to half your walking speed. Additionally, once per day, you may choose to double your walking speed until the end of your turn (no action required). Once this property has been used, it cannot be used again until the following dawn.
 
-</div> -->
+</div>
 
 ## Mirror Shield
 **Armor (shield), uncommon (requires attunement)**
