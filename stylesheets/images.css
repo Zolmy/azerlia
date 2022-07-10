@@ -1,0 +1,44 @@
+.imgoverflow {
+  overflow: hidden;
+}
+
+.leftimg,
+.rightimg,
+.centerimg {
+  display: block;
+  margin: 0 auto;
+}
+
+.tinyimg {
+  display: block;
+  max-width: 100px !important;
+}
+
+.smallimg {
+  display: block;
+  max-width: 300px !important;
+}
+
+.mediumimg {
+  display: block;
+  max-width: 500px !important;
+}
+
+.largeimg {
+  display: block;
+  max-width: 800px !important;
+}
+
+@media (min-width: 768px) {
+  .leftimg {
+    float: left;
+    margin: 0 10px 10px;
+  }
+
+  .rightimg {
+    float: right;
+    margin: 0 10px 10px;
+  }
+}
+
+/* <span class="rightimg"><span class="smallimg">![title](url)</span></span> */
