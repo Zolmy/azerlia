@@ -68,7 +68,7 @@ This bronze key has a head shaped like a crown. When inserted into a non magical
 While wearing this armor, you can use your action to cast fireball (save DC 15), centered on yourself. You take no damage from this spell. The armor cant be used this way again until the next dawn.
 </div>
 
-## Magical One Leaf Clover
+## Magical Two Leaf Clover
 **Wondrous item, common (requires attunement)**
 
 <div class="imgoverflow">
