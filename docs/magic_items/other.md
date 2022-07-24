@@ -68,11 +68,11 @@ This bronze key has a head shaped like a crown. When inserted into a non magical
 While wearing this armor, you can use your action to cast fireball (save DC 15), centered on yourself. You take no damage from this spell. The armor cant be used this way again until the next dawn.
 </div>
 
-## Magical Three Leaf Clover
+## Magical Four Leaf Clover
 **Wondrous item, common (requires attunement)**
 
 <div class="imgoverflow">
-<img class="leftimg smallimg" src="../../assets/threeleaf.png"/>
+<img class="leftimg smallimg" src="../../assets/fourleaf.png"/>
 
 While attuned to this item you gain the following benefits:
 <ul>
@@ -85,9 +85,9 @@ You have resistance to non magical bludgeoning, piercing, and slashing damage
 <li>
 You have advantage on stealth and sleight of hand rolls
 </li>
-<!-- <li>
+<li>
 You land critical hits on a 7 in addition to your normal critical hit range
-</li> -->
+</li>
 <!-- <li>
 While your effective HP (normal + temp) is under 20% of your maximum HP you gain the following benefits:
 <ul>
@@ -170,7 +170,7 @@ Should these glasses get misplaced, the attuned character may speak the command 
 </p>
 </div>
 
-<!-- ## Puzzle Box
+## Puzzle Box
 **Wondrous item, rare**
 
 <div class="imgoverflow">
@@ -183,4 +183,4 @@ Though a magic item in and of itself, this cubic box often contains far more pow
 Once the box is closed, it can only be opened by solving the box’s puzzle. You can attempt to solve it by spending 24 hours working on the puzzle mechanism, after which you must succeed a DC 27 Intelligence check to open the box. You can close the box as an action, automatically scrambling the puzzle.
 </p>
 
-</div> -->
+</div>
