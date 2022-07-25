@@ -3,7 +3,11 @@
     - Relics
         - magic_items/relics/*.md
     - magic_items/*.md
-- [Sessions](sessions/)
+- Sessions
+    - Prologue
+        - sessions/prologue/*.md
+    - Arc 1: Zorem
+        - sessions/arc1/*.md
 - Homebrew
     - [General](homebrew/general.md)
     - homebrew/*.md
