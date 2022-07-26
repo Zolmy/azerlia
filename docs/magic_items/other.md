@@ -69,7 +69,7 @@ While wearing this armor, you can use your action to cast fireball (save DC 15),
 </div>
 
 ## Magical Four Leaf Clover
-**Wondrous item, common (requires attunement)**
+**Wondrous item, very rare (requires attunement)**
 
 <div class="imgoverflow">
 <img class="leftimg smallimg" src="../../assets/fourleaf.png"/>
