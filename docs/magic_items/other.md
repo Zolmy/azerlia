@@ -86,7 +86,7 @@ You have resistance to non magical bludgeoning, piercing, and slashing damage
 You have advantage on stealth and sleight of hand rolls
 </li>
 <li>
-You land critical hits on a 7 in addition to your normal critical hit range
+Your attacks become critical hits on a 7 in addition to your normal critical hit range
 </li>
 <!-- <li>
 While your effective HP (normal + temp) is under 20% of your maximum HP you gain the following benefits:
