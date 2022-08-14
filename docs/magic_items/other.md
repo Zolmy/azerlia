@@ -88,7 +88,7 @@ You have advantage on stealth and sleight of hand rolls
 <li>
 Your attacks become critical hits on a 7 in addition to your normal critical hit range
 </li>
-<!-- <li>
+<li>
 While your effective HP (normal + temp) is under 20% of your maximum HP you gain the following benefits:
 <ul>
 <li>You have advantage on attack rolls and saving throws</li>
@@ -96,7 +96,7 @@ While your effective HP (normal + temp) is under 20% of your maximum HP you gain
 <li>Your movement speed is doubled</li>
 <li>You may reroll any one d20 (can only be done once per long rest)</li>
 </ul>
-</li> -->
+</li>
 </ul>
 </div>
 
